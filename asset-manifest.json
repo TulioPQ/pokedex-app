@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/pokedex-app/static/js/main.b65d851e.js",
+    "static/media/pokemon-logo.png": "/pokedex-app/static/media/pokemon-logo.3f3b0fbc1d25648a303e.png",
+    "index.html": "/pokedex-app/index.html",
+    "main.b65d851e.js.map": "/pokedex-app/static/js/main.b65d851e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b65d851e.js"
+  ]
+}
